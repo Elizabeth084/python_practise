@@ -1,0 +1,11 @@
+# --coding: utf-8 --
+s=input('Введите строку символов:\n')
+print('1.',s[2])
+print('2.',s[-2])
+print('3.',s[:5])
+print('4.',s[:-2])
+print('5.',s[::2])
+print('6.',s[1::2])
+print('7.',s[::-1])
+print('8.',s[::-2])
+print('9.',len(s))
